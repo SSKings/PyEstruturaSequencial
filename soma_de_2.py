@@ -6,5 +6,5 @@ def soma_2():
     soma = n1 + n2
     return f'A soma dos dois é: {soma}'
 
-if __name__ == '__main__':
-    print(soma_2())
+
+print(soma_2())
